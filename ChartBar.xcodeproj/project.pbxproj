@@ -14,6 +14,7 @@
 		38C7584027A181C800310CE3 /* ChartBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C7583F27A181C800310CE3 /* ChartBarTests.swift */; };
 		38C7584A27A181C800310CE3 /* ChartBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C7584927A181C800310CE3 /* ChartBarUITests.swift */; };
 		38C7584C27A181C800310CE3 /* ChartBarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C7584B27A181C800310CE3 /* ChartBarUITestsLaunchTests.swift */; };
+		38C7585B27A1833C00310CE3 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C7585A27A1833C00310CE3 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		38C7584527A181C800310CE3 /* ChartBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChartBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38C7584927A181C800310CE3 /* ChartBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartBarUITests.swift; sourceTree = "<group>"; };
 		38C7584B27A181C800310CE3 /* ChartBarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartBarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		38C7585A27A1833C00310CE3 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				38C7583027A181C700310CE3 /* ContentView.swift */,
 				38C7583227A181C800310CE3 /* Assets.xcassets */,
 				38C7583427A181C800310CE3 /* Preview Content */,
+				38C7585A27A1833C00310CE3 /* Home.swift */,
 			);
 			path = ChartBar;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38C7583127A181C700310CE3 /* ContentView.swift in Sources */,
+				38C7585B27A1833C00310CE3 /* Home.swift in Sources */,
 				38C7582F27A181C700310CE3 /* ChartBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
